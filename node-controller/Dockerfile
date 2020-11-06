@@ -5,4 +5,4 @@ ENV TZ=Asia/Shanghai
 ENV HOST_HOSTNAME $HOSTNAME
 
 EXPOSE 8082
-VOLUME [ "/opt/metersphere/conf","/jmeter","/opt/metersphere/logs", ]
+VOLUME [ "/opt/metersphere/conf","/jmeter","/opt/metersphere/logs"]
