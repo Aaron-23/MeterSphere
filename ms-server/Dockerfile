@@ -1,4 +1,4 @@
-FROM mysql:5.7
+FROM registry.cn-qingdao.aliyuncs.com/metersphere/metersphere:v1.4.3
 MAINTAINER zhangz@goodrain.com
 
 ENV TZ=Asia/Shanghai
